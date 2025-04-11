@@ -1,0 +1,14 @@
+python train.py sega \
+    -project sega \
+    -dataset cifar100 \
+    -dataroot /home/miaohua/Project/Zicheng/my_model/CVPR22-Fact-main/data \
+    -base_mode 'ft_cos' \
+    -new_mode 'avg_cos' \
+    -lr_base 0.1 \
+    -decay 0.0005 \
+    -epochs_base 600 \
+    -batch_size_base 256 \
+    -schedule Cosine \
+    -tmax 600 \
+    -gpu '0,1,2,3' \
+    -temperature 32
