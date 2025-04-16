@@ -6,7 +6,7 @@
 
 [Zicheng Pan](https://zichengpan.github.io/), Xiaohan Yu, and Yongsheng Gao
 
-![Paper](https://img.shields.io/badge/paper-TIP%202025-blue)
+[![Paper](https://img.shields.io/badge/paper-TIP%202025-blue)](https://ieeexplore.ieee.org/document/10965908)
 
 </div>
 
