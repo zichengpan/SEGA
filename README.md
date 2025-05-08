@@ -16,12 +16,13 @@ Few-shot class-incremental learning (FSCIL) aims to learn from a sequence of inc
 ## Citation
 If you find our code or paper useful, please give us a citation, thanks!
 ```bash
-@ARTICLE{10965908,
+@ARTICLE{Pan_SEGA,
   author={Pan, Zicheng and Yu, Xiaohan and Gao, Yongsheng},
   journal={IEEE Transactions on Image Processing}, 
-  title={Session-Guided Attention in Continuous Learning with Few Samples}, 
+  title={Session-Guided Attention in Continuous Learning With Few Samples}, 
   year={2025},
-  doi={10.1109/TIP.2025.3559463}
+  volume={34},
+  pages={2654-2666}
 }
 ```
 
